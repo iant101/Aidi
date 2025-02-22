@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.animate-logo {
+  animation: logo 5s linear infinite;
+}
+
